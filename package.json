@@ -1,0 +1,22 @@
+{
+  "name": "vy-discord-rpc-test",
+  "version": "1.0.0",
+  "description": ":) discord-rpc for fancy buttons",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vyvy-vi/discord-rpc.git"
+  },
+  "author": "Vyvy-vi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vyvy-vi/discord-rpc/issues"
+  },
+  "homepage": "https://github.com/Vyvy-vi/discord-rpc#readme",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
