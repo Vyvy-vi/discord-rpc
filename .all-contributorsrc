@@ -11,13 +11,15 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/63889819?v=4",
       "profile": "http://www.nhcarrigan.com",
       "contributions": [
-        "projectManagement"
+        "projectManagement",
+        "code",
+        "ideas"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "new-repo-template",
-  "projectOwner": "nhcarrigan",
+  "projectName": "discord-rpc",
+  "projectOwner": "Vyvy-vi",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
