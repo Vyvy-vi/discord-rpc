@@ -19,5 +19,7 @@
   "dependencies": {
     "discord-rpc": "^3.1.4"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
