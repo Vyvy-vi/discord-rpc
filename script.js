@@ -1,19 +1,18 @@
-const rpc = require("discord-rpc");
+var config = require('./config');
 
+const rpc = require("discord-rpc");
 const client = new rpc.Client({ 'transport': 'ipc' });
 client.on('ready', () => {
     client.request('SET_ACTIVITY', {
         pid: process.pid,
         activity: {
-            details: "hello world",
+            details: config.STATUS,
             assets: {
-                large_image: "polygons",
-                large_text: "life..."
+                large_image: config.LARGE_IMG_NAME,
+                large_text: config.FLOATING_TEXT
             },
-            buttons: [
-                {label: "Github", url: "https://github.com/Vyvy-vi"},
-                // {label: "Website", url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
-            ]
+        buttons: config.BUTTONS
     }})
 })
-client.login({ clientId : "801410700689932298" }).catch(console.error)
+client.login({ clientId : config.CLIENT_ID }).catch(console.error)
+
