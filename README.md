@@ -24,7 +24,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://www.nhcarrigan.com"><img src="https://avatars1.githubusercontent.com/u/63889819?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicholas Carrigan (he/him)</b></sub></a><br /><a href="#projectManagement-nhcarrigan" title="Project Management">📆</a> <a href="https://github.com/Vyvy-vi/discord-rpc/commits?author=nhcarrigan" title="Code">💻</a> <a href="#ideas-nhcarrigan" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://www.nhcarrigan.com"><img src="https://avatars1.githubusercontent.com/u/63889819?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicholas Carrigan (he/him)</b></sub></a><br /><a href="https://github.com/Vyvy-vi/discord-rpc/commits?author=nhcarrigan" title="Code">💻</a> <a href="#ideas-nhcarrigan" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/Vyvy-vi"><img src="https://avatars.githubusercontent.com/u/62864373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vyom Jain</b></sub></a><br /><a href="#projectManagement-Vyvy-vi" title="Project Management">📆</a> <a href="#maintenance-Vyvy-vi" title="Maintenance">🚧</a> <a href="https://github.com/Vyvy-vi/discord-rpc/commits?author=Vyvy-vi" title="Documentation">📖</a></td>
   </tr>
 </table>
