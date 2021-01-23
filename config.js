@@ -3,8 +3,10 @@ module.exports = {
   CLIENT_ID: "801410700689932298",
   // Large image name is the name of the image assigned when it was uploaded in Rich Presence section on discord developer portal
   LARGE_IMG_NAME: "polygons",
-  // Floating text refers to the text, that appears when one hovers over the image in the rpc
-  FLOATING_TEXT: "Vyvy-vi",
+  // Large image text refers to the text, that appears when one hovers over the large image in the rpc
+  LARGE_IMG_TEXT: "Vyvy-vi",
+  // Small image name is the name of the image asset that was uploaded to discord developer portal. It is displayed as a smaller image to the bottom-right corner of the Large image.
+  SMALL_IMG_NAME: "blahaj_actualsize",
   // Status is the description shown under the game-name:
   STATUS: ">:D",
   // BUTTONS are clickable hyperlink buttons in your discord profile. The label attribute is the text displayed on the button, and the url is the url it wuld link to. NOTE- There is provision for only 2 buttons by discord.

@@ -9,7 +9,8 @@ client.on('ready', () => {
             details: config.STATUS,
             assets: {
                 large_image: config.LARGE_IMG_NAME,
-                large_text: config.FLOATING_TEXT
+                large_text: config.FLOATING_TEXT,
+                small_image: config.SMALL_IMG_NAME
             },
         buttons: config.BUTTONS
     }})
